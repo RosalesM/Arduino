@@ -1,0 +1,11 @@
+Rover	KEYWORD1
+setMotor1Speed	KEYWORD2
+setMotor2Speed	KEYWORD2
+setBothSpeed	KEYWORD2
+moveStop	KEYWORD2
+moveForward	KEYWORD2
+moveReverse	KEYWORD2
+moveLeft	KEYWORD2
+moveRight	KEYWORD2
+begin	KEYWORD2
+	
