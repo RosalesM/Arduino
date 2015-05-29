@@ -1,3 +1,7 @@
+/*
+MercurySwitch.h - Library for Keyes Mercury Switch/Tilt sensor.
+Created by Miguel Rosales, May 29, 2015.
+*/
 #ifndef MercurySwitch_h
 #define MercurySwitch_h
 
